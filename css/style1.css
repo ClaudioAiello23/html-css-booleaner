@@ -39,6 +39,7 @@ main{
 
 .headtable{
     background-color: rgb(15, 159, 248);
+    text-align: left;
 }
 
 .body1table{
@@ -47,4 +48,8 @@ main{
 
 .body2table{
     background-color: white;
+}
+
+.thirdcolumn{
+    width: 50%;
 }
