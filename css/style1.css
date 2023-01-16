@@ -8,9 +8,27 @@ header{
     background-image: url(../img/pattern.png);
 }
 
+main{
+    margin-top: 10px;
+}
+
 .logo_b{
     height: 20%;
     width: 20%;
-    padding-top: 70px;
+    padding-top: 80px;
     margin-left: 10px;
+}
+
+.article_title{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.firma{
+    color: gray;
+    font-weight: bold;
+}
+
+#booleaner{
+    color: rgb(30, 181, 231);
 }
